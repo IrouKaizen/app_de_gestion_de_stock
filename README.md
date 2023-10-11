@@ -7,3 +7,7 @@ Bien sûr, je vais l'améliorer
 
 #Photo1
 ![idara1](https://github.com/IrouKaizen/app_de_gestion_de_stock/assets/122926735/a1c91388-2b3a-41c7-bcca-ecafb4eeefb2)
+
+#Photo2
+
+![Idara2](https://github.com/IrouKaizen/app_de_gestion_de_stock/assets/122926735/9748e15e-330d-4935-aa06-1450f7d4d3a4)
