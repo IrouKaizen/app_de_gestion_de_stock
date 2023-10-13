@@ -16,3 +16,7 @@ Bien sûr, je vais l'améliorer
 
 
 ![idara3](https://github.com/IrouKaizen/app_de_gestion_de_stock/assets/122926735/2bd88a38-e788-4d46-90a0-2d49576ead73)
+
+#Photo4
+
+![idara4](https://github.com/IrouKaizen/app_de_gestion_de_stock/assets/122926735/ea73a54d-b184-44a1-96eb-45fba964cedd)
