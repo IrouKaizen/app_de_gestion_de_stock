@@ -23,3 +23,5 @@ Bien sûr, je vais l'améliorer
 
 #Photo5
 ![idara5](https://github.com/IrouKaizen/app_de_gestion_de_stock/assets/122926735/d6b8af73-e48e-478f-8ca8-b54088ff35c0)
+
+#Photo6
